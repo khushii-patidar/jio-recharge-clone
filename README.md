@@ -1,2 +1,2 @@
 # jio-recharge-clone
-just a clone of jio-recharge
+just a clone of Jio-recharge
